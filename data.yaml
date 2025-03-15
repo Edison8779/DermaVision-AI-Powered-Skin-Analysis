@@ -1,0 +1,6 @@
+train: E:\Arul\Edison\images\train\images
+val: E:\Arul\Edison\images\valid\images
+test: E:\Arul\Edison\images\test\images
+
+nc: 9
+names: ['acne', 'dark circle', 'darkspot', 'dry', 'normal skin', 'oily', 'pores', 'skin redness', 'wrinkle']
